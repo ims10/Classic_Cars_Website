@@ -16,7 +16,7 @@ To get started with this project on your local machine, follow these steps:
 1. **Clone the repository** to your local machine:
 
    ```bash
-   
+   https://github.com/ims10/Classic_Cars_Website.git
 
 ## 💾 Usage
 
